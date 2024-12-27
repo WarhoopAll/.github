@@ -11,7 +11,8 @@ We are developing a web environment for **TrinityCore**. Work is also underway t
  
 Our projects are actively under development and aim to provide convenient tools for managing World of Warcraft game servers.
 
-# Добро пожаловать в WarhoopAll
+
+# Добро пожаловать в Warhoop
 
 Мы занимаемся разработкой web окружения для **TrinityCore**. В данный момент также ведется работа над поддержкой **AzerothCore**.
 
