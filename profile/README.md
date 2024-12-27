@@ -1,11 +1,12 @@
-![Medivh](https://github.com/user-attachments/assets/515c3270-707e-40b0-b5ee-daf977f9057b)
+<img src="https://github.com/user-attachments/assets/515c3270-707e-40b0-b5ee-daf977f9057b" alt="Medivh" width="100"/>
+
 # Welcome to Warhoop
 
 We are developing a web environment for **TrinityCore**. Work is also underway to support **AzerothCore**.
 
 ## Projects
 - **API**: [Grimoire (Backend)](https://github.com/WarhoopAll/Grimoire)
-- **ORM model**:[Grimoire Entities](https://github.com/WarhoopAll/tc-bun-entities)
+- **ORM model**: [Grimoire Entities](https://github.com/WarhoopAll/tc-bun-entities)
 - **Frontend**: [Grimoire UI (Frontend)](https://github.com/WarhoopAll/Grimoire-ui)
 - **Core and Patch**: [Grimoire Core](https://github.com/WarhoopAll/TrinityCore)
  
@@ -18,7 +19,7 @@ Our projects are actively under development and aim to provide convenient tools 
 
 ## Проекты
 - **API**: [Grimoire (Backend)](https://github.com/WarhoopAll/Grimoire)
-- **ORM model**:[Grimoire Entities](https://github.com/WarhoopAll/tc-bun-entities)
+- **ORM model**: [Grimoire Entities](https://github.com/WarhoopAll/tc-bun-entities)
 - **Frontend**: [Grimoire UI (Frontend)](https://github.com/WarhoopAll/Grimoire-ui)
 - **Core and Patch**: [Grimoire Core] (https://github.com/WarhoopAll/TrinityCore)
  
